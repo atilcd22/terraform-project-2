@@ -1,0 +1,4 @@
+Host ec2-instance
+    HostName 3.8.133.105
+    User ubuntu
+    IdentityFile "C:\Users\acemd\.ssh\mtckey"
